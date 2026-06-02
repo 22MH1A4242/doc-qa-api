@@ -5,3 +5,4 @@ faiss-cpu
 PyMuPDF
 numpy
 pydantic
+python-multipart 
