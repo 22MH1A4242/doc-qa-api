@@ -2,7 +2,7 @@ fastapi
 uvicorn
 sentence-transformers
 faiss-cpu
-PyMuPDF
+pymupdf
 numpy
-pydantic
-python-multipart 
+groq
+python-dotenv
